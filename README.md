@@ -45,8 +45,9 @@ Git, GitLab, Linux
 
 ## 📊 My GitHub Stats
 
-![Your github stats](https://github-readme-stats.vercel.app/api?username=StareDeathhp&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StareDeathhp&layout=compact)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=StareDeathhp&show_icons=true&theme=default" alt="StareDeathhp's GitHub stats"/>
+</p>
 
 ---
 
