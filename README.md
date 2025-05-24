@@ -1,4 +1,4 @@
-# Hi 👋, I'm Quang Huy
+![image](https://github.com/user-attachments/assets/0a360bb5-0c6a-4119-bb22-e9f612cbc496)# Hi 👋, I'm Quang Huy
 
 **Software Engineer | Backend & Robotics Specialist**
 
@@ -10,8 +10,9 @@ A 🇻🇳 Software engineer in Vietnam, passionate about building high-performa
 - 🛠️ Skilled in system architecture, performance optimization, distributed systems, and advanced algorithms (path planning, multi-process, inter-process communication, optimization)
 - 💬 Ask me about backend, server, multi-process, API, Mobile Robot or system integration
 - 🌐 My GitHub Page: [github-page](https://github.com/StareDeathhp)
-- 📫 How to reach me: your.email@gmail.com
-- 📍 Location: [Your Address/City, Country]
+- 📫 How to reach me:  quanghuyqhe24@gmail.com
+- 📍 Location: Hanoi, Vietnam
+- 🏠 Hometown: HaiPhong, Vietnam
 
 ---
 
