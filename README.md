@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0a360bb5-0c6a-4119-bb22-e9f612cbc496)# Hi 👋, I'm Quang Huy
+# Hi 👋, I'm Quang Huy
 
 **Software Engineer | Backend & Robotics Specialist**
 
